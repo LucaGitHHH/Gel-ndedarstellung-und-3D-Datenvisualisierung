@@ -1,6 +1,6 @@
 # Geländedarstellung-und-3D-Datenvisualisierung
 Unterrichtsdokumentation  
-Digitales Höhenmodell des Nevado
+#Digitales Höhenmodell des Nevado
 <img width="842" height="595" alt="Layout" src="https://github.com/user-attachments/assets/78718156-a47d-4735-8d79-ac426b1e023a" />
 #
 # Reliefkarte Schweiz
